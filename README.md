@@ -1,3 +1,18 @@
+# 🧠 Java Learning Repository by Zinhle Mthimunye
+
+👋 Hi! I’m currently using this repository to strengthen my Java skills as a Software Engineering student. I’m going from beginner to advanced one concept at a time.
+
+🛠️ I forked this repo to practice:
+- Core Java syntax
+- Object-Oriented Programming (OOP)
+- Writing clean, testable code
+- Building up my GitLab with real work
+
+🚀 I update this repo regularly as I learn — feel free to follow along!
+
+
+---
+
 # Java Tutorial For Beginners
 
 Welcome to this book on **"Learning Java In 150 Steps"**. 
