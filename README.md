@@ -6,7 +6,6 @@
 - Core Java syntax
 - Object-Oriented Programming (OOP)
 - Writing clean, testable code
-- Building up my GitLab with real work
 
 🚀 I update this repo regularly as I learn — feel free to follow along!
 
